@@ -13,6 +13,7 @@ I am proud to hold the following professional certification:
 **Microsoft Certified: Power BI Data Analysit Associate**
   - This certification measures ability to accomplish the following technical tasks: prepare the data; model the data; visualize and analyze the data; and deploy and maintain assets.
   - View my credential details [here](https://learn.microsoft.com/en-us/users/85165808/credentials/d3aacb4cae22b7d4).
+  - <img src="https://github.com/zhisonghuo/Microsoft-Power-BI/blob/main/Images/Badge/Power-Bi-Data-Analyst-Associate.png" width="100" height="100">
 
 
 ## Skills & Capabilities
