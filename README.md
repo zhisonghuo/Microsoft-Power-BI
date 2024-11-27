@@ -4,7 +4,7 @@ Welcome to my Power BI Portfolios! This repository is a comprehensive showcase o
 
 ## About Me
 
-As a seasoned freelancer with a focus on Microsoft Power Platform, I bring a rich blend of analytical skills and technical knowledge to the table. My experience spans across various industries, enabling me to deliver tailored and impactful data solutions to meet diverse business needs.
+As a seasoned Upwork freelancer with a focus on Microsoft Power Platform, I bring a rich blend of analytical skills and technical knowledge to the table. My experience spans across various industries, enabling me to deliver tailored and impactful data solutions to meet diverse business needs.
 
 ## Certifications
 
